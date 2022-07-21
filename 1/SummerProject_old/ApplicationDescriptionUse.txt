@@ -1,0 +1,17 @@
+/*******************************************************************************/
+*			Who use the different arm test 				*
+/*******************************************************************************/
+
+ Name App	commade 	arguments
+--------------------------------------------------------------------------------
+ Matmult 	./matmult 	SIZE CORE 1
+ Sort 		./mergesort 	firstArgument secondArgument 
+ HARRIS_bench 	./harris 	IMG.bmp
+ SIFT_bench 	./sift 		//IMG.pmg
+ SUSAN_bench 	./susan 	IMG.bmp
+ FAST_bench 	./fast 		IMG.bmp
+
+--------------------------------------------------------------------------------
+END
+
+
